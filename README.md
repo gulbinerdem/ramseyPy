@@ -11,3 +11,5 @@ Our project has the following dependencies...
 
 * pyCollocation
 * pyPWT 
+
+Agenda for the rest of the afternoon.
